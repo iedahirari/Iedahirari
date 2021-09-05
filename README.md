@@ -1,10 +1,9 @@
-## Olá eu sou Ieda👋
+## Olá eu sou Ieda 👽
 
 - 🌱 Estudante de ADS
 - 😄 Ela/dela
-
+- 👩🏼‍💻 Let my imagination go
 ##
-
 <div>
  <a href="https://github.com/iedahirari">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
