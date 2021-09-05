@@ -6,8 +6,10 @@
 ##
 
 <div>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width "60em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&langscount=16&theme=dracula" />
+ <a href="https://github.com/iedahirari">
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width "60em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&langscount=16&theme=dracula" />
+</a>
 </div>
 
 ##
