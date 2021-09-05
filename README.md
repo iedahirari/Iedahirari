@@ -1,4 +1,4 @@
-## Olá eu sou Ieda 👽
+## Olá 👽
 
 - 🌱 Estudante de ADS
 - 😄 Ela/dela
