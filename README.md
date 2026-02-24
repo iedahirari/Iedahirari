@@ -5,10 +5,8 @@
 - 👩🏼‍💻 Let my imagination go
 ##
 <div>
- <a href="https://github.com/iedahirari">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iedahirari=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</a>
- 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iedahirari=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  
 </div>
 
