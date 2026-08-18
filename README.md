@@ -1,6 +1,7 @@
 ## Olá 👽
 
-- 🌱 Estudante de Matematica - IFSP e Ciência da Computação
+- 👩‍🏫 Estudante de Matemática - IFSP 
+- 💻 Estudante de Ciência da Computação 
 - 😄 Ela/dela
 - 👩🏼‍💻 Let my imagination go
 ##
