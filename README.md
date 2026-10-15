@@ -6,7 +6,7 @@ Transformo dados públicos e operacionais não estruturados em pipelines de ETL 
 bancos relacionais e dashboards que dão suporte à decisão.
 
 - 📊 Foco em Business Intelligence, Ciência de Dados e Governança de Dados
-- 📝 Artigo revisado por pares sobre **segurança de bancos de dados em nuvem** — Revista EduFatec, 2023
+- 📝 Artigo publicado sobre **segurança de bancos de dados em nuvem** — [Revista EduFatec, ed. 6](https://revistaedufatec.fatecfranca.edu.br/wp-content/uploads/2024/04/edufatec-n06v2a07.pdf)
 - 🌐 Portfólio: **[iedahirari.github.io/portifolio](https://iedahirari.github.io/portifolio/)**
 - 😄 Ela/dela
 - 👩🏼‍💻 *Let my imagination go*
