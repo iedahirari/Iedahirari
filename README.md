@@ -23,6 +23,7 @@ bancos relacionais e dashboards que dão suporte à decisão.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
@@ -47,11 +48,12 @@ bancos relacionais e dashboards que dão suporte à decisão.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
-Também trabalho com **ETL**, **web scraping**, **parsing de PDF**, **modelagem relacional e dimensional (Star Schema)**,
+Também trabalho com **ETL**, **web scraping**, **automação de coleta de dados**, **parsing de PDF**, **modelagem relacional e dimensional (Star Schema)**,
 **EDA**, **estatística descritiva**, **governança de dados** e **controle de acesso (DAC, MAC, RBAC)**.
 
 ##
@@ -60,28 +62,28 @@ Também trabalho com **ETL**, **web scraping**, **parsing de PDF**, **modelagem 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| ⭐ **[MONITORAÊ](https://github.com/iedahirari/Projeto-de-Engenharia-de-Software-2---ES2)** · [ver online](https://iedahirari.github.io/Projeto-de-Engenharia-de-Software-2---ES2/) | Portal de transparência pública de Mogi das Cruzes. **Web crawlers** coletam dados da API do **Tesouro Nacional (SICONFI)** e do portal da Prefeitura, tratam encoding e valores monetários e geram JSON para o site; um **GitHub Actions** roda a coleta toda semana. Mostra para onde vai o dinheiro (saúde, educação, transporte), quanto o Estado repassou à cidade e o salário de 5,6 mil servidores. Projeto de Engenharia de Software II (FATEC), com versão acadêmica em PHP + MySQL | Node.js · PHP · MySQL · JavaScript · GitHub Actions · GitHub Pages |
 | 🚧 **[Projeto WebAgriculture](https://github.com/ZorahSai/Projeto-WebAgriculture-)** | *Em desenvolvimento.* Preditor de risco de falha em dispositivos de rede: coleta medições públicas de ping entre âncoras do **RIPE Atlas**, rotula cada fluxo pelo desvio em relação ao próprio baseline e treina uma **árvore de decisão** que classifica em OK / RISCO / FALHA. Projeto em grupo das disciplinas de Redes, **Estrutura de Dados II** e Análise de Sistemas, conduzido em Scrum | Python · scikit-learn · Pandas · NumPy · Requests · Jupyter · REST API |
 | **[dashboard-ecommerce-olist](https://github.com/iedahirari/dashboard-ecommerce-olist)** | Análise exploratória e dashboard sobre o dataset público de e-commerce da Olist | Python · Pandas · Jupyter |
-| **[Horta-Limpa](https://github.com/iedahirari/Horta-Limpa)** | Jogo educativo de navegador sobre resíduos de agrotóxicos nos alimentos, com mundo isométrico em Canvas 2D. Projeto de extensão do Centro Universitário Braz Cubas, fundamentado em pesquisa de percepção do consumidor e nos dados do programa PARA da Anvisa | JavaScript · Canvas 2D · HTML · CSS · GitHub Pages |
-| **[Projeto de Engenharia de Software II](https://github.com/iedahirari/Projeto-de-Engenharia-de-Software-2---ES2)** | Sistema web desenvolvido na disciplina de Engenharia de Software II | PHP · JavaScript · HTML · CSS |
-| **[portifolio](https://github.com/iedahirari/portifolio)** | Portfólio profissional em análise de dados, BI e ciência de dados | HTML · CSS · GitHub Pages |
+| **[Horta-Limpa](https://github.com/iedahirari/Horta-Limpa)** · [jogar](https://iedahirari.github.io/Horta-Limpa/) | Jogo educativo de navegador sobre resíduos de agrotóxicos nos alimentos, com mundo isométrico em Canvas 2D. Projeto de extensão do Centro Universitário Braz Cubas, fundamentado em pesquisa de percepção do consumidor e nos dados do programa PARA da Anvisa | JavaScript · Canvas 2D · HTML · CSS · GitHub Pages |
+| **[portifolio](https://github.com/iedahirari/portifolio)** · [ver online](https://iedahirari.github.io/portifolio/) | Portfólio profissional em análise de dados, BI e ciência de dados | HTML · CSS · GitHub Pages |
 | **[beecrowd](https://github.com/iedahirari/beecrowd)** | Soluções de exercícios de algoritmos e estruturas de dados | C++ |
 
 ##
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dark&hide_border=true&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Ieda" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Ieda" height="165" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </picture>
 
 ##
