@@ -15,17 +15,6 @@ Estudante de Ciência da Computação e Matemática. Por aqui: código, dados e 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Explore os projetos
-
-| Repositório | O que tem por lá |
-| --- | --- |
-| [MONITORAÊ](https://github.com/iedahirari/Projeto-de-Engenharia-de-Software-2---ES2) | Dados públicos, crawlers e ETL automatizado. |
-| [Análise de varejo com SQL](https://github.com/iedahirari/analise-varejo-sql) | SQL, DuckDB e dashboards em Power BI. |
-| [Preditor de redes](https://github.com/ZorahSai/Projeto-WebAgriculture-) | Projeto em equipe com Python e machine learning. |
-| [Horta Limpa](https://github.com/iedahirari/Horta-Limpa) | Jogo educativo com JavaScript e Canvas 2D. |
-
-[**Ver todos os repositórios →**](https://github.com/iedahirari?tab=repositories)
-
 ### Atividade no GitHub
 
 <picture>
