@@ -1,6 +1,9 @@
 name: Linguagens do perfil
 
 on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/metrics.yml"]
   workflow_dispatch:
   schedule:
     - cron: "0 9 * * *"
