@@ -28,11 +28,7 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
   <img src="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Ieda" height="165" />
 </picture>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" height="165" />
+  <img src="./github-metrics.svg" alt="Linguagens mais usadas nos projetos de Ieda" width="480" />
 </picture>
 
 ### Redes e contato
