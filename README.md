@@ -1,5 +1,3 @@
-<div align="center">
-
 # Oi, eu sou a Ieda 👽
 
 ![Visitas ao perfil](https://visitor-badge.laobi.icu/badge?page_id=iedahirari.iedahirari&left_text=Visitas&right_color=blue)
@@ -10,6 +8,8 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
 
 🌱 Estudando estatística inferencial e PostgreSQL.  
 👩🏼‍💻 *Let my imagination go*
+
+<div align="center">
 
 ### Tecnologias
 
