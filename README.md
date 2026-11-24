@@ -22,16 +22,16 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
 
 ### Atividade no GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&theme=dark&hide_border=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=iedahirari&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Ieda" height="165" />
-</picture>
-<picture>
-  <img src="./github-metrics.svg" alt="Linguagens mais usadas nos projetos de Ieda" width="480" />
-</picture>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./github-metrics-stats.svg" alt="Estatísticas do GitHub de Ieda" width="400" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./github-metrics.svg" alt="Linguagens mais usadas nos projetos de Ieda" width="400" />
+    </td>
+  </tr>
+</table>
 
 ### Redes e contato
 
