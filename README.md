@@ -1,5 +1,7 @@
 # Olá, eu sou a Ieda 👽
 
+![Visitas ao perfil](https://visitor-badge.laobi.icu/badge?page_id=iedahirari.iedahirari&left_text=Visitas&right_color=blue)
+
 **Estudante de Ciência da Computação e Matemática · em busca de estágio em TI · Suzano/SP**
 
 Tenho seis anos de experiência em gestão comercial e operações, acompanhando metas, indicadores, estoque e equipe. Hoje, conecto essa experiência aos estudos e a projetos de desenvolvimento, análise de dados, requisitos e automação.
