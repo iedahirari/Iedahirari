@@ -1,10 +1,13 @@
 # Oi, eu sou a Ieda 👽
 
-Estudante de Ciência da Computação e Matemática. Por aqui: código, dados e automação.
-
 ![Visitas ao perfil](https://visitor-badge.laobi.icu/badge?page_id=iedahirari.iedahirari&left_text=Visitas&right_color=blue)
 
-[🌐 Portfólio](https://iedahirari.github.io/portifolio/) · [LinkedIn](https://www.linkedin.com/in/ieda-oliveira/) · [E-mail](mailto:iedahirari@gmail.com)
+### Sobre mim
+
+Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Venho da gestão comercial e de operações e desenvolvo projetos com programação, análise de dados e automação.
+
+🌱 Estudando estatística inferencial e PostgreSQL.  
+👩🏼‍💻 *Let my imagination go*
 
 ### Tecnologias
 
@@ -32,6 +35,11 @@ Estudante de Ciência da Computação e Matemática. Por aqui: código, dados e 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </picture>
 
----
+### Redes e contato
 
-Minha trajetória, estudos e detalhes dos projetos estão no **[portfólio](https://iedahirari.github.io/portifolio/)**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/ieda-oliveira/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iedahirari@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511930122714)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-181717?style=flat-square&logo=githubpages&logoColor=white)](https://iedahirari.github.io/portifolio/)
+
+Mais sobre minha trajetória e meus projetos no **[portfólio](https://iedahirari.github.io/portifolio/)**.
