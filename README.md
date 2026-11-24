@@ -1,75 +1,47 @@
-## Olá, eu sou a Ieda 👽
+# Olá, eu sou a Ieda 👽
 
-**Analista de Dados & BI** · em formação em **Matemática (IFSP)** e **Ciência da Computação (Braz Cubas)** · Suzano/SP
+**Estudante de Ciência da Computação e Matemática · em busca de estágio em TI · Suzano/SP**
 
-Transformo dados públicos e operacionais não estruturados em pipelines de ETL automatizados,
-bancos relacionais e dashboards que dão suporte à decisão.
+Tenho seis anos de experiência em gestão comercial e operações, acompanhando metas, indicadores, estoque e equipe. Hoje, conecto essa experiência aos estudos e a projetos de desenvolvimento, análise de dados, requisitos e automação.
 
-- 📊 Foco em Business Intelligence, Ciência de Dados e Governança de Dados
-- 📝 Artigo publicado sobre **segurança de bancos de dados em nuvem** — [Revista EduFatec, ed. 6](https://revistaedufatec.fatecfranca.edu.br/wp-content/uploads/2024/04/edufatec-n06v2a07.pdf)
-- 🌐 Portfólio: **[iedahirari.github.io/portifolio](https://iedahirari.github.io/portifolio/)**
-- 😄 Ela/dela
-- 👩🏼‍💻 *Let my imagination go*
+Busco estágio em **desenvolvimento, dados/BI, requisitos, automação ou suporte a sistemas**, com interesse em oportunidades remotas e em São Paulo e região.
 
-##
+🌐 **[Conheça meu portfólio](https://iedahirari.github.io/portifolio/)** · 📄 **[Currículo](https://iedahirari.github.io/portifolio/curriculo.html)** · **[Resume — EN](https://iedahirari.github.io/portifolio/en/resume.html)**
 
-### 🛠️ Tecnologias
+## O que estou construindo
 
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Dados, análise & machine learning**
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge&logoColor=white)
-
-**Bancos de dados & BI**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-**Ferramentas & práticas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=jirasoftware&logoColor=white)
-
-Também trabalho com **ETL**, **web scraping**, **automação de coleta de dados**, **parsing de PDF**, **modelagem relacional e dimensional (Star Schema)**,
-**EDA**, **estatística descritiva**, **governança de dados** e **controle de acesso (DAC, MAC, RBAC)**.
-
-##
-
-### 📌 Projetos em destaque
-
-| Projeto | O que é | Stack |
+| Projeto | O que desenvolvi ou participei | Tecnologias |
 | --- | --- | --- |
-| ⭐ **[MONITORAÊ](https://github.com/iedahirari/Projeto-de-Engenharia-de-Software-2---ES2)** · [ver online](https://iedahirari.github.io/Projeto-de-Engenharia-de-Software-2---ES2/) | Portal de transparência pública de Mogi das Cruzes. **Web crawlers** coletam dados da API do **Tesouro Nacional (SICONFI)** e do portal da Prefeitura, tratam encoding e valores monetários e geram JSON para o site; um **GitHub Actions** roda a coleta toda semana. Mostra para onde vai o dinheiro (saúde, educação, transporte), quanto o Estado repassou à cidade e o salário de 5,6 mil servidores. Projeto de Engenharia de Software II (FATEC), com versão acadêmica em PHP + MySQL | Node.js · PHP · MySQL · JavaScript · GitHub Actions · GitHub Pages |
-| 🚧 **[Projeto WebAgriculture](https://github.com/ZorahSai/Projeto-WebAgriculture-)** | *Em desenvolvimento.* Preditor de risco de falha em dispositivos de rede: coleta medições públicas de ping entre âncoras do **RIPE Atlas**, rotula cada fluxo pelo desvio em relação ao próprio baseline e treina uma **árvore de decisão** que classifica em OK / RISCO / FALHA. Projeto em grupo das disciplinas de Redes, **Estrutura de Dados II** e Análise de Sistemas, conduzido em Scrum | Python · scikit-learn · Pandas · NumPy · Requests · Jupyter · REST API |
-| **[dashboard-ecommerce-olist](https://github.com/iedahirari/dashboard-ecommerce-olist)** | Análise exploratória e dashboard sobre o dataset público de e-commerce da Olist | Python · Pandas · Jupyter |
-| **[Horta-Limpa](https://github.com/iedahirari/Horta-Limpa)** · [jogar](https://iedahirari.github.io/Horta-Limpa/) | Jogo educativo de navegador sobre resíduos de agrotóxicos nos alimentos, com mundo isométrico em Canvas 2D. Projeto de extensão do Centro Universitário Braz Cubas, fundamentado em pesquisa de percepção do consumidor e nos dados do programa PARA da Anvisa | JavaScript · Canvas 2D · HTML · CSS · GitHub Pages |
-| **[portifolio](https://github.com/iedahirari/portifolio)** · [ver online](https://iedahirari.github.io/portifolio/) | Portfólio profissional em análise de dados, BI e ciência de dados | HTML · CSS · GitHub Pages |
-| **[beecrowd](https://github.com/iedahirari/beecrowd)** | Soluções de exercícios de algoritmos e estruturas de dados | C++ |
+| **[MONITORAÊ](https://github.com/iedahirari/Projeto-de-Engenharia-de-Software-2---ES2)** · [ver online](https://iedahirari.github.io/Projeto-de-Engenharia-de-Software-2---ES2/) | Projeto em equipe de transparência pública de Mogi das Cruzes. Trabalhei com requisitos, matriz de rastreabilidade, casos de uso UML e coleta automatizada de dados públicos, com atualização semanal. | Node.js · PHP · MySQL · Python · ETL · GitHub Actions |
+| **[Análise de varejo com SQL](https://github.com/iedahirari/analise-varejo-sql)** | Análise de mais de 1 milhão de linhas do Online Retail II: limpeza, Curva ABC, segmentação RFM, coortes e devoluções, com modelo estrela e dashboard executivo. | SQL · DuckDB · Python · Power BI |
+| **[E-commerce Olist](https://github.com/iedahirari/dashboard-ecommerce-olist)** | Análise de cerca de 100 mil pedidos para investigar atrasos e satisfação. Pedidos atrasados eram 7% do total e concentravam 32% das avaliações negativas. | Python · pandas · Seaborn · Power BI · DAX |
+| **[Preditor de degradação de rede](https://github.com/ZorahSai/Projeto-WebAgriculture-)** · [ver online](https://zorahsai.github.io/Projeto-WebAgriculture-/) | Projeto integrador em equipe, em andamento. Minha parte inclui coleta, limpeza, rotulagem e treino de uma árvore de decisão com dados públicos do RIPE Atlas. | Python · scikit-learn · pandas · APIs REST |
+| **[Comparação de modelos de previsão de redes](https://github.com/iedahirari/artigo-preditor-redes)** · [ler estudo](https://iedahirari.github.io/artigo-preditor-redes/) | Estudo em equipe comparando Árvore de Decisão, Random Forest e XGBoost para prever a qualidade de rede com 12 minutos de antecedência, incluindo validação temporal e análise dos limites dos modelos. | Python · scikit-learn · XGBoost · RIPE Atlas |
+| **[Horta Limpa](https://github.com/iedahirari/Horta-Limpa)** · [jogar](https://iedahirari.github.io/Horta-Limpa/) | Projeto de extensão em grupo: pesquisa com consumidores e dados da Anvisa transformados em um jogo educativo de navegador. | JavaScript · Canvas 2D · HTML · CSS |
 
-##
+## Conhecimentos que aplico
+
+- **Negócios, requisitos e processos:** levantamento e documentação de requisitos, stakeholders, matriz de rastreabilidade, casos de uso UML, BPMN com Bizagi, KPIs, metas, Curva ABC e giro de estoque.
+- **Dados e BI:** SQL com DuckDB e MySQL/MariaDB, Power BI, Power Query, DAX, modelo estrela, Excel, Looker Studio, RFM, coortes e qualidade de dados.
+- **Programação e automação:** Python, pandas, NumPy, Jupyter, Matplotlib, Seaborn, JavaScript, PHP, Node.js, ETL, web scraping, APIs REST, JSON, Git e GitHub Actions.
+- **Machine learning em projetos acadêmicos:** Árvore de Decisão, Random Forest, XGBoost e validação temporal.
+
+**Estudando agora:** estatística inferencial e PostgreSQL.
+
+## Formação e trajetória
+
+- **Ciência da Computação — Centro Universitário Braz Cubas:** conclusão prevista para junho de 2029.
+- **Matemática — Instituto Federal de São Paulo (IFSP):** conclusão prevista para 2028.
+- **Gestão comercial e operações — Lua Luana:** junho de 2020 a setembro de 2026, com indicadores, relatórios gerenciais, estoque e liderança de equipe.
+- **Voluntariado em inclusão digital — Fatec Mogi das Cruzes:** apoio individual a idosos em aulas práticas de informática e uso do celular.
+
+Concluí **Process Modeling — Bizagi (BPMN)** em outubro de 2026 e cursos de Power BI e banco de dados pela Fundação Bradesco.
+
+## Publicação
+
+📝 **[Modelos de Controle de Acesso em Bancos de Dados na Nuvem: uma análise comparativa](https://revistaedufatec.fatecfranca.edu.br/wp-content/uploads/2024/04/edufatec-n06v2a07.pdf)** — Revista EduFatec, n. 6, v. 2, 2023. Revisão comparativa de 16 trabalhos sobre DAC, MAC e RBAC.
+
+## Meu GitHub
 
 <picture>
   <source
@@ -86,9 +58,7 @@ Também trabalho com **ETL**, **web scraping**, **automação de coleta de dados
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedahirari&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </picture>
 
-##
-
-### 📬 Onde me encontrar
+## Vamos conversar?
 
 <div>
  <a href="https://www.linkedin.com/in/ieda-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
