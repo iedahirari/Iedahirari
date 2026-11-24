@@ -30,16 +30,16 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/static/v1?label=&message=Windows%20Forms&color=0078D4&style=flat-square)
-![Java Swing](https://img.shields.io/static/v1?label=&message=Java%20Swing&color=ED8B00&style=flat-square)
-![Canvas 2D](https://img.shields.io/static/v1?label=&message=Canvas%202D&color=222222&style=flat-square)
-![IndexedDB](https://img.shields.io/static/v1?label=&message=IndexedDB&color=336791&style=flat-square)
+![Windows Forms](./assets/badges/windows-forms.svg)
+![Java Swing](./assets/badges/java-swing.svg)
+![Canvas 2D](./assets/badges/canvas-2d.svg)
+![IndexedDB](./assets/badges/indexeddb.svg)
 
 **Dados e análise**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
-![Power Query](https://img.shields.io/static/v1?label=&message=Power%20Query&color=217346&style=flat-square)
-![DAX](https://img.shields.io/static/v1?label=&message=DAX&color=F2C811&style=flat-square)
+![Power Query](./assets/badges/power-query.svg)
+![DAX](./assets/badges/dax.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logoColor=white)
@@ -50,10 +50,10 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/static/v1?label=&message=XGBoost&color=337AB7&style=flat-square)
-![Requests](https://img.shields.io/static/v1?label=&message=Requests&color=2C5BB4&style=flat-square)
-![openpyxl](https://img.shields.io/static/v1?label=&message=openpyxl&color=217346&style=flat-square)
-![joblib](https://img.shields.io/static/v1?label=&message=joblib&color=3776AB&style=flat-square)
+![XGBoost](./assets/badges/xgboost.svg)
+![Requests](./assets/badges/requests.svg)
+![openpyxl](./assets/badges/openpyxl.svg)
+![joblib](./assets/badges/joblib.svg)
 
 **Ferramentas e testes**
 
@@ -61,14 +61,14 @@ Estudo **Ciência da Computação na Braz Cubas** e **Matemática no IFSP**. Ven
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Apache Ant](https://img.shields.io/static/v1?label=&message=Apache%20Ant&color=A81C7D&style=flat-square)
+![Apache Ant](./assets/badges/apache-ant.svg)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![Playwright](https://img.shields.io/static/v1?label=&message=Playwright&color=2EAD33&style=flat-square)
-![Karma](https://img.shields.io/static/v1?label=&message=Karma&color=56C5A8&style=flat-square)
+![Playwright](./assets/badges/playwright.svg)
+![Karma](./assets/badges/karma.svg)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
-![instagrapi](https://img.shields.io/static/v1?label=&message=instagrapi&color=E4405F&style=flat-square)
-![Astah / UML](https://img.shields.io/static/v1?label=&message=Astah%20%2F%20UML&color=546E7A&style=flat-square)
+![instagrapi](./assets/badges/instagrapi.svg)
+![Astah / UML](./assets/badges/astah-uml.svg)
 
 ### Atividade no GitHub
 
